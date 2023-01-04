@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Structure of the code:
@@ -98,4 +99,10 @@ Miscellaneous:
 3.	Steps to Run Code:
 1.	Kindly open our project with Visual Studio using the open local folder option.
 2.	Make sure that sitesearch.exe is selected and the file is run in x64-Release mode.
+=======
+# Lunar-Rover-Landing-Site-Analysis-Path-Planning
+
+
+
+>>>>>>> 8e851abd0cccb7e7d4047e558f49953388e37233
 
